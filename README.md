@@ -61,3 +61,20 @@ Add your PDFs to the `/data` folder, then run:
 ```bash
 python create_memory_for_llm.py
 
+##🚀 Launch the Chatbot
+streamlit run medibot.py
+
+##🛠️ Future Enhancements
+
+Add document upload functionality in the UI
+
+Support multi‑document ingestion
+
+Implement user authentication
+
+Add unit tests for the RAG components
+
+
+##🙌 Acknowledgments
+
+Thanks to the LangChain, HuggingFace, and Streamlit open-source communities for these powerful tools
